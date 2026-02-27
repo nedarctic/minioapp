@@ -11,6 +11,7 @@
   "dependencies": {
     "drizzle-kit": "^0.31.9",
     "drizzle-orm": "^0.45.1",
+    "formidable": "^3.5.4",
     "minio": "^8.0.6",
     "next": "16.1.6",
     "pg": "^8.19.0",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/formidable": "^3.4.7",
     "@types/minio": "^7.1.0",
     "@types/node": "^20",
     "@types/pg": "^8.16.0",
